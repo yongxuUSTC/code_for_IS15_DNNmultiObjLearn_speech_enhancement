@@ -1,6 +1,6 @@
 # code_for_IS15_DNNmultiObjLearn_speech_enhancement
 
-C++ GPU source code for improved DNN based speech enhancment
+C++ GPU source code for improved DNN based speech enhancment (Two key points: multi-objective learning and mask-based post-processing)
 
 
 Multi-Objective Learning and Mask-Based Post-Processing for Deep Neural Network Based Speech Enhancement
