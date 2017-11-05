@@ -9,10 +9,21 @@ Yong Xu, Jun Du, Zhen Huang, Li-Rong Dai, Chin-Hui Lee
 
 Interspeech2015, paper: https://arxiv.org/abs/1703.07172
 
+As for decoding or enhancmenet, please ref: 
 
-Abstract: We propose a multi-objective framework to learn both secondary targets not 
-directly related to the intended task of speech enhancement (SE) and the primary target of 
-the clean log-power spectra (LPS) features to be used directly for constructing the enhanced 
-speech signals. In deep neural network (DNN) based SE we introduce an auxiliary structure 
-to learn secondary continuous features, such as mel-frequency cepstral coefficients 
-(MFCCs), and categorical information, such as the ideal binary mask (IBM), and integrate ...
+How to do decoding or speech enhancement in the test phase ?
+
+Please ref: DNN based speech enhancement tool is open now and can be downloaded at https://drive.google.com/file/d/0B5r5bvRpQ5DRR1lIV1hpZ0RLQ0E/view?usp=sharing
+or (@ Baidu Yun) http://pan.baidu.com/s/1eRJGrx4
+
+Please cite our paper:
+
+[1]A Regression Approach to Speech Enhancement Based on Deep Neural Networks.YongXu,JunDu,Li-Rong Dai and Chin-Hui Lee, IEEE/ACM Transactions on Audio,Speech, and Language Processing,P.7-19,Vol.23,No.1, 2015
+
+[2]An Experimental Study on Speech Enhancement Based on Deep Neural Networks.YongXu, JunDu, Li-Rong Dai and Chin-Hui Lee,IEEE signal processing letters, p. 65-68,vol.21,no. 1,January 2014
+
+[3] Multi-Objective Learning and Mask-Based Post-Processing for Deep Neural Network Based Speech Enhancement, Yong Xu, Jun Du, Zhen Huang, Li-Rong Dai, Chin-Hui Lee, Interspeech2015
+
+Some DNN based speech enhancemen demos:
+
+http://staff.ustc.edu.cn/~jundu/The%20team/yongxu/demo/SE_DNN_taslp.html http://staff.ustc.edu.cn/~jundu/The%20team/yongxu/demo/IS15.html
