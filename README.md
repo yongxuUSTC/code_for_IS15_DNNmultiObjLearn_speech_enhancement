@@ -2,14 +2,14 @@
 
 C++ GPU source code for improved DNN based speech enhancment
 
+
 Multi-Objective Learning and Mask-Based Post-Processing for Deep Neural Network Based Speech Enhancement
-Authors
+
 Yong Xu, Jun Du, Zhen Huang, Li-Rong Dai, Chin-Hui Lee
-Publication date
-2015
-Conference
-Sixteenth Annual Conference of the International Speech Communication Association
-Description
+
+Interspeech2015, paper: https://arxiv.org/abs/1703.07172
+
+
 Abstract: We propose a multi-objective framework to learn both secondary targets not 
 directly related to the intended task of speech enhancement (SE) and the primary target of 
 the clean log-power spectra (LPS) features to be used directly for constructing the enhanced 
